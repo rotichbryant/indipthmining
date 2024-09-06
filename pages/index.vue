@@ -180,7 +180,7 @@
                   <div class="col-12 col-xl-5 col-lg-5">
                     <!-- Slide Image -->
                     <div class="slide-img">
-                      <img class="rounded-left w-100" src="./image/l3/png/testimonial.png" alt="">
+                      <img class="rounded-left w-100" src="/images/l3/png/testimonial.png" alt="">
                     </div>
                   </div>
                   <div class="col-12 col-xl-7 col-lg-7 col-xs-10">
@@ -188,7 +188,7 @@
                     <div class="slide-content pl-5 pl-lg-10 pl-xxl-20 pr-5 pr-xl-5 py-lg-5 py-9">
                       <!-- Slide Brand Image -->
                       <div class="mb-11">
-                        <img src="./image/l3/png/testimonial-brand-logo.png" alt="">
+                        <img src="/images/l3/png/testimonial-brand-logo.png" alt="">
                       </div>
                       <!-- Slide Info -->
                       <div class="">
@@ -212,7 +212,7 @@
                   <div class="col-12 col-xl-5 col-lg-5">
                     <!-- Slide Image -->
                     <div class="slide-img">
-                      <img class="rounded-left w-100" src="./image/l3/png/testimonial.png" alt="">
+                      <img class="rounded-left w-100" src="/images/l3/png/testimonial.png" alt="">
                     </div>
                   </div>
                   <div class="col-12 col-xl-7 col-lg-7 col-xs-10">
@@ -220,7 +220,7 @@
                     <div class="slide-content pl-5 pl-lg-10 pl-xxl-20 pr-5 pr-xl-5 py-lg-5 py-9">
                       <!-- Slide Brand Image -->
                       <div class="mb-11">
-                        <img src="./image/l3/png/testimonial-brand-logo.png" alt="">
+                        <img src="/images/l3/png/testimonial-brand-logo.png" alt="">
                       </div>
                       <!-- Slide Info -->
                       <div class="">
@@ -244,7 +244,7 @@
                   <div class="col-12 col-xl-5 col-lg-5">
                     <!-- Slide Image -->
                     <div class="slide-img">
-                      <img class="rounded-left w-100" src="./image/l3/png/testimonial.png" alt="">
+                      <img class="rounded-left w-100" src="/images/l3/png/testimonial.png" alt="">
                     </div>
                   </div>
                   <div class="col-12 col-xl-7 col-lg-7 col-xs-10">
@@ -252,7 +252,7 @@
                     <div class="slide-content pl-5 pl-lg-10 pl-xxl-20 pr-5 pr-xl-5 py-lg-5 py-9">
                       <!-- Slide Brand Image -->
                       <div class="mb-11">
-                        <img src="./image/l3/png/testimonial-brand-logo.png" alt="">
+                        <img src="/images/l3/png/testimonial-brand-logo.png" alt="">
                       </div>
                       <!-- Slide Info -->
                       <div class="">
