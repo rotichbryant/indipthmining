@@ -1,11 +1,11 @@
 <template>
     <!-- cta section -->
-    <footer class="footer bg-ebony-clay dark-mode-texts">
+    <footer class="footer bg-ebony-clay dark-mode-texts">z
       <div class="container  pt-12 pt-lg-19 pb-10 pb-lg-19">
         <div class="row">
           <div class="col-lg-4 col-sm-6 mb-lg-0 mb-9">
             <!-- footer logo start -->
-            <img src="/images/logo-main-white.png" alt="" class="footer-logo mb-14">
+            <!-- <img src="/images/logo-main-white.png" alt="" class="footer-logo mb-14"> -->
             <!-- footer logo End -->
             <!-- media start -->
             <div class="media mb-11">
@@ -28,8 +28,8 @@
                   <ul class="widget-links pl-0 list-unstyled list-hover-primary ">
                     <li class="mb-6"><a class="heading-default-color font-size-4 font-weight-normal" href="">About us</a></li>
                     <li class="mb-6"><a class="heading-default-color font-size-4 font-weight-normal" href="">Contact us</a></li>
-                    <li class="mb-6"><a class="heading-default-color font-size-4 font-weight-normal" href="">Careers</a></li>
-                    <li class="mb-6"><a class="heading-default-color font-size-4 font-weight-normal" href="">Press</a></li>
+                    <li class="mb-6"><a class="heading-default-color font-size-4 font-weight-normal" href="">Success Stories</a></li>
+                    <li class="mb-6"><a class="heading-default-color font-size-4 font-weight-normal" href="">Home</a></li>
                   </ul>
                   <!-- widget social menu end -->
                 </div>

@@ -6,12 +6,10 @@
     <nav class="navbar site-navbar offcanvas-active navbar-expand-lg  px-0 py-0">
         <!-- Brand Logo-->
         <div class="brand-logo">
-        <a href="./index.html">
-            <!-- light version logo (logo must be black)-->
+        <!-- <a href="./index.html">
             <img src="/images/logo-main-black.png" alt="" class="light-version-logo default-logo">
-            <!-- Dark version logo (logo must be White)-->
             <img src="/images/logo-main-white.png" alt="" class="dark-version-logo">
-        </a>
+        </a> -->
         </div>
         <div class="collapse navbar-collapse" id="mobile-menu">
         <div class="navbar-nav-wrapper">
@@ -19,7 +17,7 @@
             <li class="nav-item">
                 <NuxtLink class="nav-link" to="/">Home</NuxtLink>
             </li>
-            <li class="nav-item">
+            <!-- <li class="nav-item">
                 <NuxtLink class="nav-link" to="/about">About Us</NuxtLink>
             </li>
             <li class="nav-item">
@@ -27,7 +25,7 @@
             </li>
             <li class="nav-item">
                 <NuxtLink class="nav-link" to="/contact">Contact</NuxtLink>
-            </li>
+            </li> -->
             <!-- <li class="nav-item dropdown active">
                 <a class="nav-link dropdown-toggle gr-toggle-arrow" id="navbarDropdown" href="#features" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Home <i class="icon icon-small-down"></i></a>
                 <ul class="gr-menu-dropdown dropdown-menu" aria-labelledby="navbarDropdown">
