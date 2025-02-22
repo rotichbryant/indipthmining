@@ -1,43 +1,41 @@
 <template>
-    <!-- cta section -->
-    <footer class="footer bg-ebony-clay dark-mode-texts">z
-      <div class="container  pt-12 pt-lg-19 pb-10 pb-lg-19">
-        <div class="row">
-          <div class="col-lg-4 col-sm-6 mb-lg-0 mb-9">
-            <!-- footer logo start -->
-            <!-- <img src="/images/logo-main-white.png" alt="" class="footer-logo mb-14"> -->
-            <!-- footer logo End -->
-            <!-- media start -->
-            <div class="media mb-11">
-              <img src="/images/l1/png/message.png" class="align-self-center mr-3" alt="">
-              <div class="media-body pl-5">
-                <p class="mb-0 font-size-4 text-white">Contact us at</p>
-                <a class="mb-0 font-size-4 font-weight-bold" href="mailto:info@kwen.co.ke">info@kwen.co.ke</a>
+  <!-- Footer Start -->
+  <div class="container-fluid bg-dark text-light footer mt-5 pt-5 wow fadeIn" data-wow-delay="0.1s">
+      <div class="container py-5">
+          <div class="row g-5">
+              <div class="col-lg-3 col-md-6">
+                  <h4 class="text-light mb-4">Address</h4>
+                  <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Lavington chalbi drive, No 53</p>
+                  <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>P.O. Box 76669-00508</p>
+                  <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+254208000288</p>
+                  <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@indipthmining.com</p>
               </div>
-            </div>
-            <!-- media start -->
-          </div>
-          <div class="col-lg-8 col-md-6">
-            <div class="row">
-              <div class="col-lg-3 col-md-6 col-sm-3 col-xs-6">
-                <div class="footer-widget widget2 mb-md-0 mb-13">
-                  <!-- footer widget title start -->
-                  <p class="widget-title font-size-4 text-gray mb-md-8 mb-7">Company</p>
-                  <!-- footer widget title end -->
-                  <!-- widget social menu start -->
-                  <ul class="widget-links pl-0 list-unstyled list-hover-primary ">
-                    <li class="mb-6"><a class="heading-default-color font-size-4 font-weight-normal" href="">About us</a></li>
-                    <li class="mb-6"><a class="heading-default-color font-size-4 font-weight-normal" href="">Contact us</a></li>
-                    <li class="mb-6"><a class="heading-default-color font-size-4 font-weight-normal" href="">Success Stories</a></li>
-                    <li class="mb-6"><a class="heading-default-color font-size-4 font-weight-normal" href="">Home</a></li>
-                  </ul>
-                  <!-- widget social menu end -->
-                </div>
+              <div class="col-lg-3 col-md-6">
+                  <h4 class="text-light mb-4">Services</h4>
+                  <a class="btn btn-link" href="" @click.prevent="$router.push({ name: 'Service'})">Asset Management</a>
+                  <a class="btn btn-link" href="" @click.prevent="$router.push({ name: 'Service'})">Feasibility Study</a>
+                  <a class="btn btn-link" href="" @click.prevent="$router.push({ name: 'Service'})">Mine planning and design</a>
+                  <a class="btn btn-link" href="" @click.prevent="$router.push({ name: 'Service'})">Mining resources estimation</a>
+                  <a class="btn btn-link" href="" @click.prevent="$router.push({ name: 'Service'})">Infrastructure and Logistics</a>
+                  <a class="btn btn-link" href="" @click.prevent="$router.push({ name: 'Service'})">Environmental Health & Safety</a>
               </div>
-            </div>
+              <div class="col-lg-3 col-md-6">
+                  <h4 class="text-light mb-4">Quick Links</h4>
+                  <a class="btn btn-link" href="" @click.prevent="$router.push({ name: 'AboutUs'})">About Us</a>
+                  <a class="btn btn-link" href="" @click.prevent="$router.push({ name: 'Contact'})">Contact Us</a>
+                  <a class="btn btn-link" href="" @click.prevent="$router.push({ name: 'Service'})">Our Services</a>
+              </div>
           </div>
-        </div>
       </div>
-    </footer>
-    <!-- footer area function end -->
+      <div class="container">
+          <div class="copyright">
+              <div class="row">
+                  <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
+                      &copy; <a class="border-bottom" href="#">Indipth Mining Limited</a>, All Right Reserved.
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+  <!-- Footer End -->
 </template>

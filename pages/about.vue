@@ -1,116 +1,83 @@
 <template>
-  <!-- Main Content Start -->
   <div>
-      <!-- Header start end -->
-      <!-- Hero Area -->
-      <div class="bg-gradient-1 pt-26 position-relative z-index-1 overflow-hidden">
-          <!-- .Hero pattern -->
-          <div class="pos-abs-tr w-50 z-index-n2">
-              <img src="/images/patterns/hero-pattern.png" alt="" class="gr-opacity-1">
-          </div>
-          <!-- ./Hero pattern -->
-          <div class="container">
-              <div class="row position-relative align-items-center">
-              <div class="col d-flex align-items-center" data-aos="fade-right" data-aos-duration="800" data-aos-once="true">
-                  <div class="col-12">
-                      <h1 class="font-size-9 mb-6 pr-md-30 pr-lg-0">About Us</h1>
-                      <p>Konyon Wenditai Empowerment Network (KWEN), is an NGO based in Bomet with 200 KWEN women groups. Since inception it has facilitated better livelihoods in the society as a whole</p>
-                  </div>
-              </div>
-              <!-- Hero Right Image -->
-              <div class="col-md-6 d-none d-lg-block" data-aos="fade-left" data-aos-duration="800" data-aos-once="true">
-                  <div class=" ml-xxl-23 ml-xl-12 ml-md-7">
-                      <!-- <img src="/image/aboutus/mavens_2.png" alt="" class="w-100"> -->
-                  </div>
-              </div>
-              <!-- ./Hero Right Image -->
-              </div>
-          </div>
-      </div>
-      <!-- ContentOne Area End -->        
-      <!-- ContentOne Area -->
-      <!-- content-2 section -->
-      <section class="pt-13 pt-lg-30 pb-lg-30">
-      <div class="container">
-          <div class="row align-items-center justify-content-center">
-          <div class="col-xl-6 col-lg-6 col-md-8 col-xs-10" data-aos="fade-right" data-aos-duration="800" data-aos-once="true">
-              <div class="position-relative px-xl-20 pr-md-15 pr-9">
-              <!-- content img start -->
-              <!-- <img src="/image/aboutus/vision.png" alt="" class="w-100 rounded-4" /> -->
-              <!-- content img end -->
-              </div>
-          </div>
-          <div class="col-xxl-5 col-xl-6 col-lg-6 col-md-8 col-sm-11" data-aos="fade-left" data-aos-duration="800" data-aos-once="true">
-              <!-- content-2 start -->
-              <div class="content-2 pl-xl-10 d-flex flex-column justify-content-center h-100 pt-lg-0 pt-15 pr-xl-10 pr-xxl-0">
-              <!-- content section title start -->
-              <h2 class="font-size-8 mb-7 pr-xs-13  pr-md-0 pr-sm-8">
-                  Our <span class="text-green">Goal</span>
-              </h2>
-              <p class="text-default-color font-size-5 mb-7 mb-lg-12 pr-xxl-13 pr-lg-0 pr-md-10">
-                To influence community change through working with women and like-minded partners.
-              </p>
-              </div>
-              <!-- content-2 end -->
-          </div>
-          </div>
-      </div>
-      </section>
-      <section class="pt-13 pt-lg-30 pb-lg-30">
-      <div class="container">
-          <div class="row align-items-center justify-content-center">
-            <div class="col-xxl-5 col-xl-6 col-lg-6 col-md-8 col-sm-11" data-aos="fade-left" data-aos-duration="800" data-aos-once="true">
-              <!-- content-2 start -->
-              <div class="content-2 pl-xl-10 d-flex flex-column justify-content-center h-100 pt-lg-0 pt-15 pr-xl-10 pr-xxl-0">
-              <!-- content section title start -->
-              <h2 class="font-size-8 mb-7 pr-xs-13  pr-md-0 pr-sm-8">
-                  Our <span class="text-green">Mission</span>
-              </h2>
-              <p class="text-default-color font-size-5 mb-7 mb-lg-12 pr-xxl-13 pr-lg-0 pr-md-10">
-                To holistically empower the community
-              </p>
-              </div>
-              <!-- content-2 end -->
-            </div>
-            <div class="col-xl-6 col-lg-6 col-md-8 col-xs-10" data-aos="fade-right" data-aos-duration="800" data-aos-once="true">
-              <div class="position-relative px-xl-20 pr-md-15 pr-9">
-              <!-- content img start -->
-              <!-- <img src="/image/aboutus/vision.png" alt="" class="w-100 rounded-4" /> -->
-              <!-- content img end -->
-              </div>
-            </div>
-          </div>
-      </div>
-      </section>
-      <section class="pt-13 pt-lg-30 pb-lg-30">
-      <div class="container">
-          <div class="row align-items-center justify-content-center">
-            <div class="col-xl-6 col-lg-6 col-md-8 col-xs-10" data-aos="fade-right" data-aos-duration="800" data-aos-once="true">
-                <div class="position-relative px-xl-20 pr-md-15 pr-9">
-                <!-- content img start -->
-                <!-- <img src="/image/aboutus/vision.png" alt="" class="w-100 rounded-4" /> -->
-                <!-- content img end -->
+    <!-- Page Header Start -->
+    <div class="container-fluid page-header py-5 mb-5">
+        <div class="container py-5">
+            <h1 class="display-3 text-white mb-3 animated slideInDown">About Us</h1>
+            <nav aria-label="breadcrumb animated slideInDown">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
+                    <li class="breadcrumb-item text-white active" aria-current="page">About Us</li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+    <!-- Page Header End -->
+    <!-- About Start -->
+    <div class="container-fluid bg-light overflow-hidden px-lg-0">
+        <div class="container about px-lg-0">
+            <div class="row g-0 mx-lg-0">
+                <div class="col-lg-6 about-text py-5 wow fadeIn" data-wow-delay="0.5s">
+                    <div class="p-lg-5 pe-lg-0">
+                        <div class="section-title text-start">
+                            <h1 class="display-5 mb-4">Who We Are</h1>
+                        </div>
+                        <p class="mb-4 pb-2">              
+                          Indipth Mining Services Limited Company, We are dedicated to take up the challenges of innovation and to respond to market needs as a diversified and multi-faceted trading company.
+                          We ensure establishment in the mining company, this is recognizing the importance of mining to the achievement of national development goals, and this is through growth of extractives to the country’s GDP that will put our company as an investment hub for the mining sector in East Africa.
+                          Indipth Mining is focused on understanding and balancing the risk with the perceived benefits provides the best return for investors. Our approach is to combine the best people with the innovative application of leading edge ideas and technology. Our knowledge of regulations, field experience, proven technical expertise and a history of success ensures your project proceeds as smoothly and cost effectively as possible, without sacrificing technical quality.
+                          We work in diverse environments, from permafrost to equatorial latitudes. We have experience of varied geotechnical environments and undertake design of open pits in weathered near surface rocks to deep underground mines in high stress environments. Our group has broad experience in most mineral commodities, base and and precious metals, coal, iron ore and bauxite, diamonds and industrial minerals.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-6 ps-lg-0" style="min-height: 400px;">
+                    <div class="position-relative h-100">
+                        <img class="position-absolute img-fluid w-100 h-100" src="/images/mining_1.jpg" style="object-fit: cover;" alt="">
+                    </div>
                 </div>
             </div>
-            <div class="col-xxl-5 col-xl-6 col-lg-6 col-md-8 col-sm-11" data-aos="fade-left" data-aos-duration="800" data-aos-once="true">
-                <!-- content-2 start -->
-                <div class="content-2 pl-xl-10 d-flex flex-column justify-content-center h-100 pt-lg-0 pt-15 pr-xl-10 pr-xxl-0">
-                <!-- content section title start -->
-                <h2 class="font-size-8 mb-7 pr-xs-13  pr-md-0 pr-sm-8">
-                    Our <span class="text-green">Vision</span>
-                </h2>
-                <p class="text-default-color font-size-5 mb-7 mb-lg-12 pr-xxl-13 pr-lg-0 pr-md-10">
-                  We envision an empowered and productive society
-                </p>
+        </div>
+    </div>
+    <!-- About End -->     
+    <!-- Service Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="row g-4">
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item">
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3">Vision</h4>
+                            <p class="mb-3">
+                              To prosper together with customers, shareholders and employees and to contribute to a prosperous society which seeks to serve clients across a range of industries that are primarily natural resource based. The firm’s primary business is the provision of professional consulting services.
+                            </p>
+                        </div>
+                    </div>
                 </div>
-                <!-- content-2 end -->
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item">
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3">Mission</h4>
+                            <p class="mb-3">
+                              We are responsible Mining Corporation that discovers and processes minerals and energy resources for the use of society & provide expert advice and solutions for clients requiring specialized services, mainly in the fields of mining, geotechnics, water, tailings, mine waste and the environment.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item">
+                        <div class="p-4 text-center border border-5 border-light border-top-0">
+                            <h4 class="mb-3">Values</h4>
+                            <p class="mb-3">
+                              To deliver customer satisfaction with creativity, innovation, sincerity and gratitude, and to act in compliance with the law and ethics by adding value to clients’ projects through being worthy of clients’ confidence by remaining accountable for our actions.
+                            </p>
+                        </div>
+                    </div>
+                </div>
             </div>
-          </div>
-      </div>
-      </section>
-      <!-- ContentOne Area End -->
+        </div>
+    </div>
+    <!-- Service End -->  
   </div>
-  <!-- Main Content end -->
 </template>
 
 <script lang="ts" setup>

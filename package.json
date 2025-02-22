@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "nuxt": "^3.13.0",
-    "vue": "latest"
+    "nuxt-mail": "^5.1.1",
+    "vue": "latest",
+    "yup": "^1.4.0"
   }
 }
