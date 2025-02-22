@@ -9,6 +9,7 @@ export default defineNitroPlugin((nitroApp) => {
         '/assets/lib/lightbox/css/lightbox.min.css',
         '/assets/css/bootstrap.min.css',
         '/assets/css/style.css',
+        '/assets/css/maintenance.css',
       ].forEach((link) => {
         html.head.push(`<link rel="stylesheet" href="${link}" />`)
       });

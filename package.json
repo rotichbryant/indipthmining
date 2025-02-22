@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "lodash": "^4.17.21",
     "nuxt": "^3.13.0",
     "nuxt-mail": "^5.1.1",
     "vue": "latest",
